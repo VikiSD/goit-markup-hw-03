@@ -59,11 +59,9 @@ body {
   
 }
 
-
 .web {
   color: var(--accent-color);
 }
-
 
 
 /*Header*/
@@ -100,7 +98,6 @@ body {
   padding-bottom: 24px;
 }
 
-
 .nav-link{
   margin-right: 40px;
 }
@@ -121,9 +118,11 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+
 .tel{
   margin-left: 40px;
 }
+
 .tel:hover,
 .tel:focus,
 .navigation:hover,
@@ -163,8 +162,6 @@ body {
   max-width: 494px;
   display: flex;
   text-align: center;
-  
-  
 }
 
 .service-btn {
@@ -221,7 +218,6 @@ body {
   letter-spacing: 0.04em;
 
 }
-
 
 .btn:hover,
 .btn:focus,
@@ -341,7 +337,6 @@ box-sizing: inherit;
 
 .team-item>li{
   background-color: var(--main-light-color);
-  
 }
 
 .team-card{
@@ -400,5 +395,4 @@ box-sizing: inherit;
   line-height: 1.5;
   color: var(--third-light-color);
   max-width: 264px;
-  
 }
